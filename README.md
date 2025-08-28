@@ -32,7 +32,9 @@ If you need help or have questions, reach out to the team on Discord. Let’s bu
 
 ## FIN Käyttöohjeet repoon
 
+- Aloita luomalla tili GitHubiin, jos ei vielä ole.
 - Lataa ja ota käyttöön [Github Desktop](https://github.com/apps/desktop) -sovellus. 
+- Tarvitset käyttöoikeudet tähän repositorioon tehdäksesi muutoksia. Pyydä niitä tässä vaiheessa Discrodissa.
   - Seuraavaksi vaihe vaiheelta kloonaat GrafiikkaWeb -repositorion paikalliseen työhakemistoosi Github Desktopin avulla. 
   - Tämä on kertaluontoinen prosessi per. työkone ja per. repositorio.
   - UI/UX -osaajat käyttävät tätä yhtä repositoriota.
@@ -56,6 +58,10 @@ If you need help or have questions, reach out to the team on Discord. Let’s bu
   - Fetch origin -painike hakee uusimmat muutokset: paina tätä aina ensin silloin, kun olet aloittamassa tiedostojesi siirtämistä!
 
 ![alt text](image-7.png)
+
+## Nämä vaiheet jatkossa aina, kun tuot tiedostoja gittiin
+
+- Muista edellisen vaiheen "Fetch Origin" aloittaessasi
 
 - Kun tuot tiedostoja repositorioon, klikkaa "Show in Explorer" keskeltä näkymää
   - Se avaa paikallisen työhakemiston uuteen ikkunaan
