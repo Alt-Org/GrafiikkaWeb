@@ -86,4 +86,4 @@ If you need help or have questions, reach out to the team on Discord. Let’s bu
 
 - Seuraavalla kerralla muista taas fetch & pull aloittaessasi työskentelyn
 
-
+![alt text](muista.png)
