@@ -55,7 +55,7 @@ If you need help or have questions, reach out to the team on Discord. Let’s bu
 - GitHub Desktop -sovelluksesi näkymä tässä repositoriossa on tällainen
   - Current repository = GrafiikkaWeb
   - Current branch = main
-  - Fetch origin -painike hakee uusimmat muutokset: paina tätä aina ensin silloin, kun olet aloittamassa tiedostojesi siirtämistä!
+  - Fetch origin -painike (& pull origin) hakee uusimmat muutokset: paina tätä aina ensin silloin, kun olet aloittamassa tiedostojesi siirtämistä!
 
 ![alt text](image-7.png)
 
@@ -78,8 +78,12 @@ If you need help or have questions, reach out to the team on Discord. Let’s bu
 
 ![alt text](image-10.png)
 
+- Commitin jälkeen keskinäkymästä klikataan "Push origin"
+  - Tämän jälkeen olet näissä muutoksissasi valmis
+
+![alt text](image-1.png)
 
 
-
+- Seuraavalla kerralla muista taas fetch & pull aloittaessasi työskentelyn
 
 
