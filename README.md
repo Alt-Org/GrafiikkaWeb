@@ -2,7 +2,7 @@
 
 This is the dedicated space for managing and collaborating on the **Alt Zone graphic assets and web design elements**. 
 
-Together, we ensure a cohesive and visually compelling experience for the Alt Zone web project.  
+Together, we ensure a cohesive and visually compelling experience for the Alt Zone web project.
 
 ---
 
@@ -32,58 +32,7 @@ If you need help or have questions, reach out to the team on Discord. Let’s bu
 
 ## FIN Käyttöohjeet repoon
 
-- Aloita luomalla tili GitHubiin, jos ei vielä ole.
-- Lataa ja ota käyttöön [Github Desktop](https://github.com/apps/desktop) -sovellus. 
-- Tarvitset käyttöoikeudet tähän repositorioon tehdäksesi muutoksia. Pyydä niitä tässä vaiheessa Discrodissa.
-  - Seuraavaksi vaihe vaiheelta kloonaat GrafiikkaWeb -repositorion paikalliseen työhakemistoosi Github Desktopin avulla. 
-  - Tämä on kertaluontoinen prosessi per. työkone ja per. repositorio.
-  - UI/UX -osaajat käyttävät tätä yhtä repositoriota.
-
-- Klikkaa "Code" -painiketta avataksesi lisävalikon
-
-![alt text](image-5.png)
-
-- Tarkista, että URL on oikea ja valitse vaihtoehto "Open with GitHub Desktop"
-
-![alt text](image-2.png)
-
-- GitHub Desktop -sovellukseen aukeaa ikkuna
-  - varmenna, että URL on oikein sekä kun paikallinen työhakemisto (Local path) on haluamasi, niin paina Clone.
-
-![alt text](image-4.png)
-
-- GitHub Desktop -sovelluksesi näkymä tässä repositoriossa on tällainen
-  - Current repository = GrafiikkaWeb
-  - Current branch = main
-  - Fetch origin -painike (& pull origin) hakee uusimmat muutokset: paina tätä aina ensin silloin, kun olet aloittamassa tiedostojesi siirtämistä!
-
-![alt text](image-7.png)
-
-## Nämä vaiheet jatkossa aina, kun tuot tiedostoja gittiin
-
-- Muista edellisen vaiheen "Fetch Origin" aloittaessasi
-
-- Kun tuot tiedostoja repositorioon, klikkaa "Show in Explorer" keskeltä näkymää
-  - Se avaa paikallisen työhakemiston uuteen ikkunaan
-  - Siirrä sen avulla kohdekansioihin tarvittavat tiedostot
-
-![alt text](image-8.png)
-
-![alt text](image-9.png)
-
-- Siirrettyäsi haluamasi tiedostot mukaan, päivittyy samalla GitHub Desktop -sovelluksen näkymä
-  - "Changes" -kohdassa on listattu tuomasi & muuttamasi asiat sekä voit tarkastella niitä yksitellen sovelluksen keskinäkymässä
-  - Kuvaile "Description" -kohdassa lyhyesti, mitä olet tuomassa tai tekemässä
-  - Kun olet valmis, klikkaa alareunassa olevaa painiketta "Commit ... to main"
-
-![alt text](image-10.png)
-
-- Commitin jälkeen keskinäkymästä klikataan "Push origin"
-  - Tämän jälkeen olet näissä muutoksissasi valmis
-
-![alt text](image-1.png)
-
-
-- Seuraavalla kerralla muista taas fetch & pull aloittaessasi työskentelyn
-
-![alt text](muista.png)
+- Lue [repositorion käyttöönottoon](https://github.com/Alt-Org/GrafiikkaWeb/wiki/GrafiikkaWeb-%E2%80%90gitin-k%C3%A4ytt%C3%B6%C3%B6notto) liittyvät ohjeet ja suorita sen vaiheet.
+- Sen jälkeen siirry [työskentelyvaiheeseen](https://github.com/Alt-Org/GrafiikkaWeb/wiki/GitHub-Desktop-%E2%80%90-Ty%C3%B6skentelyvaihe) **GitHub Desktop** -sovellusta käyttäen.
+  - Tuo rutiininomaisesti uusi & muokattu grafiikka gittiin. Työskentelyvaihe on ikään kuin jatkumo, toistat sitä vaihetta työskentelysi edetessä uudelleen ja uudelleen.
+  - Video-ohje on myös saatavilla ja _sen linkitys lisätään tänne myöhemmin._
